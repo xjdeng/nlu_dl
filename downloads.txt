@@ -4,11 +4,11 @@ https://mvnrepository.com/artifact/com.amazonaws/aws-java-sdk-bundle/1.11.603
 
 Save as:
 
-C:\Users\xjd00\.ivy2\cache\com.amazonaws\aws-java-sdk-bundle\jars\aws-java-sdk-bundle-1.11.603.jar
+C:\Users\<user>\.ivy2\cache\com.amazonaws\aws-java-sdk-bundle\jars\aws-java-sdk-bundle-1.11.603.jar
 
 and:
 
-C:\Users\xjd00\.ivy2\jars\com.amazonaws_aws-java-sdk-bundle-1.11.603.jar
+C:\Users\<user>\.ivy2\jars\com.amazonaws_aws-java-sdk-bundle-1.11.603.jar
 
 #2:
 
@@ -16,8 +16,8 @@ https://mvnrepository.com/artifact/com.johnsnowlabs.nlp/tensorflow-cpu_2.12/0.2.
 
 Save as:
 
-C:\Users\xjd00\.ivy2\cache\com.johnsnowlabs.nlp\tensorflow-cpu_2.12\jars\tensorflow-cpu_2.12-0.2.2.jar
+C:\Users\<user>\.ivy2\cache\com.johnsnowlabs.nlp\tensorflow-cpu_2.12\jars\tensorflow-cpu_2.12-0.2.2.jar
 
 and
 
-C:\Users\xjd00\.ivy2\jars\com.johnsnowlabs.nlp_tensorflow-cpu_2.12-0.2.2.jar
+C:\Users\<user>\.ivy2\jars\com.johnsnowlabs.nlp_tensorflow-cpu_2.12-0.2.2.jar
